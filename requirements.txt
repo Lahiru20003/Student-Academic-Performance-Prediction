@@ -1,4 +1,4 @@
-ppandas
+pandas
 numpy
 scikit-learn
 matplotlib
@@ -7,5 +7,6 @@ plotly
 streamlit
 joblib
 scipy
+
 
 
